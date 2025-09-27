@@ -63,3 +63,6 @@ Q: Why categorize strike rates?
 A: Labels like “Good” or “Excellent” are more intuitive for coaches, analysts, and fans than raw numbers.
 
 Screenshot/Demo
+BATTING :-(https://github.com/Karuna9502/CRICKET-DATA-ANALYSIS/blob/main/BATTING.png)
+BOWLLING :-()
+FIEDLING :- ()
