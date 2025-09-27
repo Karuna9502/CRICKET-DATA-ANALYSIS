@@ -65,4 +65,4 @@ A: Labels like “Good” or “Excellent” are more intuitive for coaches, ana
 Screenshot/Demo
 BATTING :-(https://github.com/Karuna9502/CRICKET-DATA-ANALYSIS/blob/main/BATTING.png)
 BOWLLING :-(https://github.com/Karuna9502/CRICKET-DATA-ANALYSIS/blob/main/BALLING.png)
-FIEDLING :- ()
+FIEDLING :- (https://github.com/Karuna9502/CRICKET-DATA-ANALYSIS/blob/main/FIELDING.png)
